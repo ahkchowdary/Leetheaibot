@@ -1,5 +1,5 @@
 #import flask
-import requests
+#import requests
 import os
 import json
 import ast
